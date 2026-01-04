@@ -1,0 +1,4 @@
+[INFO] Injection started
+[INFO] Waiting for process
+[INFO] Handle acquired
+[INFO] Injection successful

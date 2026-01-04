@@ -1,0 +1,4 @@
+ui_theme=dark
+ui_accent=green
+font_size=13
+window_state=normal

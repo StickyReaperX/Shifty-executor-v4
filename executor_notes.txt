@@ -1,0 +1,4 @@
+Internal notes:
+- Do not clear cache while attached
+- VM desync may occur on high ping
+- Reattach fixes most issues

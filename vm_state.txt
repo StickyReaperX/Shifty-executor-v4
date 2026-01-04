@@ -1,0 +1,4 @@
+Virtual Machine State Dump
+Registers OK
+Stack depth: normal
+Heap usage: 62%

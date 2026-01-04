@@ -1,0 +1,4 @@
+core.dll : OK
+bridge.dll : OK
+ui.dll : OK
+integrity status : passed
